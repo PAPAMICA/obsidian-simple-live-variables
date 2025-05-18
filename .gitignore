@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# Build files
+main.js
+*.map
+
+# Environment files
+.env
+.DS_Store
+
+# Distribution archives
+*.zip
+
+# Editor directories
+.idea/
+.vscode/ 
